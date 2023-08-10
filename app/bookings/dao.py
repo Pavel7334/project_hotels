@@ -1,4 +1,4 @@
-from app.booking.models import Bookings
+from app.bookings.models import Bookings
 from app.dao.base import BaseDAO
 
 
